@@ -1,0 +1,15 @@
+{
+	"name": "course",
+	"version": "1.0.0",
+	"description": "node.js",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "nodemon --env-file=.env server"
+	},
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"nodemon": "^3.1.0"
+	}
+}
